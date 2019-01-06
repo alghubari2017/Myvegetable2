@@ -106,7 +106,8 @@ public class ProductPanelActivity extends AppCompatActivity {
                     String name=product.getProductName1();
                     String unite=product.getProductUnite1();
                    int price=product.getProductPrice1();
-
+                     list4.add(new Product(name,unite,price));
+                   /*
                     listdata.setProductName1(name);
                     listdata.setProductUnite1(unite);
                     listdata.setProductPrice1(price);
@@ -117,7 +118,7 @@ public class ProductPanelActivity extends AppCompatActivity {
                     i=i+1;
                     Toast.makeText(ProductPanelActivity.this,""+name,Toast.LENGTH_LONG).show();
                     System.out.println(listdata);
-
+*/
 
                 }
 
