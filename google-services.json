@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "79801945809",
+    "firebase_url": "https://myvgetable.firebaseio.com",
+    "project_id": "myvgetable",
+    "storage_bucket": "myvgetable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79801945809:android:62040b717a0d2a00",
+        "android_client_info": {
+          "package_name": "com.alghubari.myfv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79801945809-995bcq9q9soctthejmsgf4lg2ctdhd1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alghubari.myfv",
+            "certificate_hash": "e581b15dd7328ab9aa92430309a7b8e3c0e5a9ad"
+          }
+        },
+        {
+          "client_id": "79801945809-u74bekghrulfm97a8j9rmt0opktk3ji2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4cLAZ1wzJNNdAgLXbWVBWDgiwmva3WsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79801945809-u74bekghrulfm97a8j9rmt0opktk3ji2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

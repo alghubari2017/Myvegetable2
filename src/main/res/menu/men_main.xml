@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/product_page"
+
+        android:title="product"
+       />
+    <item android:id="@+id/Custommer_page"
+
+        android:title="Custommer" />
+    <item android:id="@+id/help"
+
+        android:title="help" />
+
+</menu>
